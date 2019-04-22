@@ -1,7 +1,7 @@
 # Haiku Checker
 
 ## Description
-A webpage that takes 3 indivivual lines of user input, each input is for each line in the Haiku, and checks to see if the result is infact a Haiku.
+A webpage that takes 3 individual lines of user input, each input is for each line in the Haiku, and checks to see if the result is infact a Haiku.
 
 ## Specifications
 
@@ -49,9 +49,6 @@ The consonant R often distorts the vowel sound of the preceeding vowel. These sy
 #### Behavior: Returns true / false if it is haiku or nah
 * Input: "5,7,5"
 * Output: "True"
-
-
-
 
 ### Setup Instructions
 * Clone this repository to your desktop using "git clone""(repository link).""
